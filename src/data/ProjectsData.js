@@ -29,7 +29,7 @@ const ProjectsPreviewData = [
     stack: ["< Laravel Framework />", "< Bootstrap />", "< Javascript />", "< Ajax />", "< Json Api />"],
     src: "https://itcourse.info/",
     description:
-      "TCourses provide a collection of tutorials about PHP, Laravel Framework, Django Framework, Mysql Database,Sql ,Database,Postgresql,Reactjs,React Typescript, Bootstrap Front-end Framework, Jquery, Node JS, Ajax Example, APIs, CURL Example, Composer Packages Example, AngularJS etc. You will find the Best Blogs about tech,Linux Administration,Server Configuration and tutorials about coding.",
+      "ITCourses provide a collection of tutorials about PHP, Laravel Framework, Django Framework, Mysql Database,Sql ,Database,Postgresql,Reactjs,React Typescript, Bootstrap Front-end Framework, Jquery, Node JS, Ajax Example, APIs, CURL Example, Composer Packages Example, AngularJS etc. You will find the Best Blogs about tech,Linux Administration,Server Configuration and tutorials about coding.",
   },
 ];
 
